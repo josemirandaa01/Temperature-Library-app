@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zpeczz6JSP2D+EyvQ1iJYp7NzL2mXwKAl77Cwnq8m6Hg1bpmWJ87Ql5ml5vnv+PaFS4A1K8b2K77dMk4amkAhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jose\\source\\repos\\ConsoleAppTemperatura\\ConsoleAppTemperatura\\ConsoleAppTemperatura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jose\\.nuget\\packages\\temperaturelibrary\\1.0.0\\temperaturelibrary.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
